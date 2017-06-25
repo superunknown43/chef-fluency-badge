@@ -1,5 +1,5 @@
 
 file 'default www' do
 	path '/var/www/html/index.html'
-	content 'Hello Fucking Worl!'
+	content 'Hello Fucking World!'
 end
